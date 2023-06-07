@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>ASP.NET_Ajax_Json_CRUD</RootNamespace>
+    <UserSecretsId>0b744b41-0d43-4b25-b857-5f7a513a95a5</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Npgsql" Version="8.0.0-preview.4" />
+  </ItemGroup>
+
+</Project>
